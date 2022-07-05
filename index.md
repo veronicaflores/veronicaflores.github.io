@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Veronica Flores Summer 2020 DREU Project Site
+title: Veronica Flores Summer 2020 - DREU Project Site
 ---
-**@ the Vision, Language, and Learning Lab (*[Vislang](https://www.vislang.ai/))*, Rice University   
+**[Vislang Lab](https://www.vislang.ai/))*
 Under the advice of Dr.Vicente Ordóñez-Román**
 
 **Veronica Flores**   
 *B.S. Candidate, Computer Science and Engineering  
-Double Minoring in Mathematics and Political Science    
+Double Minoring in Mathematics and Political Science*    
 Department of [Computer Science and Engineering](https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/)  
-Departments of [Mathematics](https://www.scu.edu/cas/mathcs/) and [Political Science](https://www.scu.edu/cas/political-science/)*   
+Departments of [Mathematics](https://www.scu.edu/cas/mathcs/) and [Political Science](https://www.scu.edu/cas/political-science/)   
 **Santa Clara University**   
 vflores@scu.edu
 
