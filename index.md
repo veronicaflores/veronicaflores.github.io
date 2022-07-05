@@ -2,6 +2,8 @@
 layout: default
 title: Summer 2020 DREU Project Site
 ---
+**@ the Vision, Language, and Learning Lab (*[Vislang](https://www.vislang.ai/))*, Rice University   
+Under the advice of Dr.Vicente Ordóñez-Román**
 
 **Veronica Flores**   
 *B.S. Candidate, Computer Science and Engineering  
