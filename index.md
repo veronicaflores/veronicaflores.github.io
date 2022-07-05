@@ -51,4 +51,4 @@ gender or superirority, within image and text machine learning modules and begin
 
 ## My Blog
 
-**[Check my blog for weekly updates!](blog.html)**
+**Check my blog for weekly updates [here](blog.html)!**
