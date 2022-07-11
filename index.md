@@ -44,8 +44,7 @@ I have also received an NSF CAREER Award, an IBM Faculty Award, a Google Faculty
 
 ## About My Project
 
-This summer, I plan to focus on image bias removal and analysis evaluating image and text retrieval. My goal is to detect where there is bias, maybe in 
-gender or superirority, within image and text machine learning modules and begin brainstorming solutions to these biases. 
+This summer, I plan to focus on image bias removal and analysis evaluating image and text retrieval. My goal is to detect where there is bias, maybe in gender or superirority, within vision and language machine learning modules and begin brainstorming solutions to these biases. The machine learning model we will be using is the **[CLIP Model](https://openai.com/blog/clip/)**, which is trained via natural language supervision. The CLIP model uses a Byte-Pair encoding tokenizer and is a dual-stream Vision Transformer (ViT). For my project we will be creating an experiment and metrics in order to evaluate the CLIP model for further bias. The Experimental Setup is TBD currently but this section will be updated when it is final!
 
 [My Final Report](files/finalreport.pdf)
 
