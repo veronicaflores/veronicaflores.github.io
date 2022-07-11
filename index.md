@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Veronica Flores Summer 2020 - DREU Project Site
+title: Veronica Flores Summer 2022 - DREU Project Site
 ---
 ***[Vislang Lab](https://www.vislang.ai/)*    
 Under the advice of Dr.Vicente Ordóñez-Román**
