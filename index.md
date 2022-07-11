@@ -31,7 +31,7 @@ the Department of Computer Science at Rice University.
 <p align="left">
   <img width="150" height="198" src="https://www.cs.rice.edu/~vo9/images/vicente-2021-small.jpg">
 </p>
-Professor Vicente Ordóñez-Román's official bio lies in his lab's website: https://www.cs.rice.edu/~vo9/ <br/>
+Professor Vicente Ordóñez-Román's official bio lies in his lab's website: https://www.cs.rice.edu/~vo9/ 
 <br/>
           
 Dr. Vicente Ordóñez-Román is an Associate Professor in Department of Computer Science at Rice University where he leads the **[Vision, Learning, and Language Lab](https://www.vislang.ai/)**, and is a Amazon Visiting Academic at Amazon Alexa AI.
