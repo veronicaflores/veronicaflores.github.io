@@ -48,6 +48,10 @@ This summer, I plan to focus on image bias removal and analysis evaluating image
 
 [My Final Report](files/finalreport.pdf)
 
+## About the DREU Progam
+
+The [Distributed Research Experiences for Undergraduates](https://cra.org/cra-wp/dreu/) (DREU) program aims to increase the diversity of computer science/engineering graduate students by matching students with faculty mentors at institutions across the United States for a 10-week, fully funded summer research experience. DREU is organized by the Computing Research Association’s Committee on Widening Participation in Computing Research (CRA-WP) and supported by the [National Science Foundation](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503593).
+
 ## My Blog
 
 **Check my blog for weekly updates [here](blog.html)!**
