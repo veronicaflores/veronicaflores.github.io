@@ -39,7 +39,7 @@ professor at Adobe Research and visiting researcher at the Allen Institute for A
 the University of North Carolina at Chapel Hill in 2015 advised by Prof. Tamara L. Berg, an MS in Computer Science at Stony Brook University (SUNY) and
 an engineering degree at the Escuela Superior Politécnica del Litoral in Ecuador. He's a recipient of a Best -Long- Paper Award at the 2017 Conference on
 Empirical Methods in Natural Language Processing (EMNLP), and the Best Paper Marr Prize at the 2013 International Conference in Computer Vision (ICCV).
-He has also received an NSF CAREER Award, an IBM Faculty Award, a Google Faculty Research Award, and a Facebook Research Award. Here is a link to an official bio, and his curriculum vitae.
+He has also received an NSF CAREER Award, an IBM Faculty Award, a Google Faculty Research Award, and a Facebook Research Award. Here is a link to an official [bio](https://www.cs.rice.edu/~vo9/bio.txt), and his curriculum vitae.
 
 ## About My Project
 
