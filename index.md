@@ -18,7 +18,7 @@ vflores@scu.edu
 
 ## About Me
 
-My name is Veronica Flores and I am a rising sophomore majoring in Computer Science & Engineering from Santa clara University in California. 
+My name is Veronica Flores and I am a rising sophomore majoring in Computer Science & Engineering from Santa Clara University in California. 
 I am also double minoring in Mathematics and Political Science and plan to graduate in Spring 2025. 
 In the past, I have researched at [Oregon State University](https://oregonstate.edu/) under the advice of Dr.Stephen Ramsey in the *[ramseylab](https://lab.saramsey.org/)* through the
 Department of Biological Science in the [School of Electrical Engineering and Computer Science](https://eecs.oregonstate.edu/).
@@ -34,12 +34,12 @@ the Department of Computer Science at Rice University.
 Professor Vicente Ordóñez-Román's official bio lies in his lab's website: https://www.cs.rice.edu/~vo9/           
  
 Dr. Vicente Ordóñez-Román is an Associate Professor in Department of Computer Science at Rice University where he leads the **[Vision, Learning, and Language Lab](https://www.vislang.ai/)**, and is a Amazon Visiting Academic at Amazon Alexa AI.
-From 2016-2021 I was an Assistant Professor in the Department of Computer Science at the University of Virginia. In the past, I have also been visiting
-professor at Adobe Research and visiting researcher at the Allen Institute for Artificial Intelligence (AI2). I received my PhD in Computer Science at
+From 2016-2021 he was an Assistant Professor in the Department of Computer Science at the University of Virginia. In the past, he has also been visiting
+professor at Adobe Research and visiting researcher at the Allen Institute for Artificial Intelligence (AI2). He received his PhD in Computer Science at
 the University of North Carolina at Chapel Hill in 2015 advised by Prof. Tamara L. Berg, an MS in Computer Science at Stony Brook University (SUNY) and
-an engineering degree at the Escuela Superior Politécnica del Litoral in Ecuador. I'm a recipient of a Best -Long- Paper Award at the 2017 Conference on
+an engineering degree at the Escuela Superior Politécnica del Litoral in Ecuador. He's a recipient of a Best -Long- Paper Award at the 2017 Conference on
 Empirical Methods in Natural Language Processing (EMNLP), and the Best Paper Marr Prize at the 2013 International Conference in Computer Vision (ICCV).
-I have also received an NSF CAREER Award, an IBM Faculty Award, a Google Faculty Research Award, and a Facebook Research Award. Here is a link to an official bio, and my curriculum vitae.
+He has also received an NSF CAREER Award, an IBM Faculty Award, a Google Faculty Research Award, and a Facebook Research Award. Here is a link to an official bio, and his curriculum vitae.
 
 ## About My Project
 
@@ -55,4 +55,4 @@ The [Distributed Research Experiences for Undergraduates](https://cra.org/cra-wp
 
 ## My Blog
 
-**Check my blog for weekly updates [here](blog.html)!**
+Check my blog for weekly updates **[here](blog.html)!**
