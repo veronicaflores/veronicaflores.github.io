@@ -18,13 +18,7 @@ vflores@scu.edu
 
 ## About Me
 
-My name is Veronica Flores and I am a rising sophomore majoring in Computer Science & Engineering from Santa Clara University in California. 
-I am also double minoring in Mathematics and Political Science and plan to graduate in Spring 2025. 
-In the past, I have researched at [Oregon State University](https://oregonstate.edu/) under the advice of Dr.Stephen Ramsey in the *[ramseylab](https://lab.saramsey.org/)* through the
-Department of Biological Science in the [School of Electrical Engineering and Computer Science](https://eecs.oregonstate.edu/).
-This Summer, I am researching in the Vision, Language, and Learning Lab at Rice University through the CRA-WP DREU Program. 
-My host is Associate Professor Vicente Ordóñez-Román from
-the Department of Computer Science at Rice University. 
+My name is Veronica Flores and I am a rising sophomore majoring in Computer Science & Engineering from Santa Clara University in California. I am also double minoring in Mathematics and Political Science and plan to graduate in Spring 2025. In the past, I have researched at [Oregon State University](https://oregonstate.edu/) under the advice of Dr.Stephen Ramsey in the *[ramseylab](https://lab.saramsey.org/)* through the Department of Biological Science in the [School of Electrical Engineering and Computer Science](https://eecs.oregonstate.edu/). In 2020, I was an Oregon and SW Washington Affiliate Award Winner of the [NCWIT Award for Aspirations in Computing](https://www.aspirations.org/award-programs/apply-for-the-award-for-aic). Moreover, this Summer, I am researching in the Vision, Language, and Learning Lab at Rice University through the CRA-WP DREU Program. My host is Associate Professor Vicente Ordóñez-Román from the Department of Computer Science at Rice University. 
 
 ## About My Mentor
 
