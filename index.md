@@ -42,6 +42,10 @@ This summer, I am researching vision and language models used in machine learnin
 <br/>
 The machine learning model we will be using is the **[CLIP Model](https://openai.com/blog/clip/)**, which is trained via natural language supervision. The CLIP model uses a Byte-Pair encoding tokenizer and is a dual-stream Vision Transformer (ViT). For my project we will be creating an experiment and metrics in order to evaluate the CLIP model for further bias. The Experimental Setup is TBD currently but this section will be updated when it is final! However, feel free to check my blog for weekly updates down below!
 
+[Senate Basic Tests]
+[House Basic Tests]
+[Mayor Basic Tests]
+
 [My Final Report](files/finalreport.pdf)
 
 ## About the DREU Progam
