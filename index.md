@@ -46,6 +46,10 @@ The machine learning model we will be using is the **[CLIP Model](https://openai
 [House Basic Tests](basic-tests-on-house.html)        
 [Mayor Basic Tests](basic-tests-on-mayors.html)       
 [Senate PKS Tests](pks-tests-on-senate.html)
+[Senate Image2Text Tests](image2text-on-senate.html)
+[Senate Text2Image Tests](text2image-on-senate.html)
+[House Image2Text Tests](image2text-on-house.html)
+[House Text2Image Tests](text2image-on-house.html)
 
 [My Final Report](files/finalreport.pdf)
 
