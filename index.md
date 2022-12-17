@@ -52,7 +52,7 @@ The machine learning model we will be using is the **[CLIP Model](https://openai
 
 [Senate Image2Text Tests](image2text-on-senate.html)
 
-[My Final Report](files/finalreport.pdf)
+/[My Final Report](files/finalreport.pdf)
 
 ## About the DREU Progam
 
